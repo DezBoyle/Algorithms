@@ -1,0 +1,15 @@
+C:\src\Algorithms\bin\Debug\net6.0\Algorithms.exe
+C:\src\Algorithms\bin\Debug\net6.0\Algorithms.deps.json
+C:\src\Algorithms\bin\Debug\net6.0\Algorithms.runtimeconfig.json
+C:\src\Algorithms\bin\Debug\net6.0\Algorithms.dll
+C:\src\Algorithms\bin\Debug\net6.0\Algorithms.pdb
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.csproj.AssemblyReference.cache
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfoInputs.cache
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.AssemblyInfo.cs
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.dll
+C:\src\Algorithms\obj\Debug\net6.0\refint\Algorithms.dll
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.pdb
+C:\src\Algorithms\obj\Debug\net6.0\Algorithms.genruntimeconfig.cache
+C:\src\Algorithms\obj\Debug\net6.0\ref\Algorithms.dll
