@@ -22,6 +22,16 @@
             Utility.Print("-Constant O(n^2)");
             Week1.PrintAllElementPairs(arry); // O(n^2)
 
+            Utility.PrintHeader("Week2 - Fisher-Yates Shuffle");
+            int[] arry2 = new int[100];
+            arry2.SetIncreasingValues();
+            Utility.Print("Before");
+            arry2.PrintArray();
+            Week2_Fisher_Yates_Shuffle.Shuffle(ref arry2);
+            Utility.Print("After");
+            arry2.PrintArray();
+
+
             Console.ReadKey(); //END
         }
     }
