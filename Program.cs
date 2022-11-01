@@ -31,6 +31,11 @@
             Utility.Print("After");
             arry2.PrintArray();
 
+            Utility.PrintHeader("Week3 - DataStructures");
+            Week3_DataStructures.DictionaryExample();
+            Week3_DataStructures.QueueExample();
+
+
 
             Console.ReadKey(); //END
         }
