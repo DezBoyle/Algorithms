@@ -11,6 +11,7 @@ namespace Algorithms
         static int temp, rand;
         static Random random;
 
+        //For each element of the array, pick a random index and swap
         public static void Shuffle(ref int[] arry)
         {
             if(random == null)
