@@ -35,6 +35,16 @@
             Week3_DataStructures.DictionaryExample();
             Week3_DataStructures.QueueExample();
 
+            Utility.PrintHeader("Week4 - SortingAlgorithms");
+            Week4_SortingAlgorithms.BubbleSort(ref arry2);
+            arry2.PrintArray();
+            Week2_Fisher_Yates_Shuffle.Shuffle(ref arry2);
+            Week4_SortingAlgorithms.InsertionSort(ref arry2);
+            arry2.PrintArray();
+            Week2_Fisher_Yates_Shuffle.Shuffle(ref arry2);
+            Week4_SortingAlgorithms.SelectionSort(ref arry2);
+            arry2.PrintArray();
+
 
 
             Console.ReadKey(); //END
