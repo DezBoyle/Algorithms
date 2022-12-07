@@ -24,5 +24,8 @@ Data Structures: Array, Map, Stack, Queue
 
 Sorting Algorithms
   BubbleSort - Runtime: O(n2) average and worst case
+  
   InsertionSort - Runtime: best case is O(n), and worst case is O(n2)
+  
   SelectionSort - Runtime: O(n2) average and worst case
+  
