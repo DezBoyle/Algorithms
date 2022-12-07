@@ -19,3 +19,10 @@ Shuffling an array using Fisher-Yates Shuffle
 Data Structures: Array, Map, Stack, Queue
   Week3_DataStructures.cs has a few examples of different data types in action.
   For game development, I mostly use arrays and dictionaries, and stacks and queues have niche uses in other applications.
+
+## Week4
+
+Sorting Algorithms
+  BubbleSort - Runtime: O(n2) average and worst case
+  InsertionSort - Runtime: best case is O(n), and worst case is O(n2)
+  SelectionSort - Runtime: O(n2) average and worst case
