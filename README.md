@@ -30,3 +30,17 @@ Sorting Algorithms:
   
   SelectionSort - Runtime: O(n2) average and worst case
   
+## Week5
+
+Searching
+
+  LinearSearch - Worst: O(n), Best: O(1), Average: O(n/2)
+This is the most simple searching algorithm: iterate through all the elements in the array until you find one that matches.
+
+  BinarySearch - Worst: O(log n), Average: O(log n), Best: O(1)
+Binary search needs a sorted array in order to work.  It stores a left and right bound and gets the element in the middle.  Until the middle element is equal to what we are
+searching for, it moves the left and right bounds to select smaller areas of the array.
+
+  InterpolationSearch - Worst: O(n), Best O(1), Average O(log(log(n)))[2]
+Interpolation search is almost the same as BinarySearch, except instead of using the middle of the left and right, it calculates a "probe", which is a guess of how far left/right the value might lie in between the bounds.
+ 

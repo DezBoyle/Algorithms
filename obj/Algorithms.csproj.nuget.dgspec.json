@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\Algorithms\\Algorithms.csproj": {}
+    "C:\\Users\\Peace\\source\\Algorithms\\Algorithms.csproj": {}
   },
   "projects": {
-    "C:\\src\\Algorithms\\Algorithms.csproj": {
+    "C:\\Users\\Peace\\source\\Algorithms\\Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\Algorithms\\Algorithms.csproj",
+        "projectUniqueName": "C:\\Users\\Peace\\source\\Algorithms\\Algorithms.csproj",
         "projectName": "Algorithms",
-        "projectPath": "C:\\src\\Algorithms\\Algorithms.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\Algorithms\\obj\\",
+        "projectPath": "C:\\Users\\Peace\\source\\Algorithms\\Algorithms.csproj",
+        "packagesPath": "C:\\Users\\Peace\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peace\\source\\Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Users\\PC\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+          "C:\\Users\\Peace\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Users\\Peace\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peace\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -45,6 +45,16 @@
             Week4_SortingAlgorithms.SelectionSort(ref arry2);
             arry2.PrintArray();
 
+            Console.WriteLine("Busted");
+            Utility.PrintHeader("Week5 - Searching");
+
+            Utility.Print("BinarySearch: Searching for value: 44");
+            Utility.Print("Found at index: " + Week5_Searching.BinarySearch(arry2, 44));
+            Utility.Print("Linear Search: Searching for value: 82");
+            Utility.Print("Found at index: " + Week5_Searching.LinearSearch(arry2, 82));
+            Utility.Print("Linear Search: Searching for value: 55");
+            Utility.Print("Found at index: " + Week5_Searching.InterpolationSearch(arry2, 55));
+
 
 
             Console.ReadKey(); //END
